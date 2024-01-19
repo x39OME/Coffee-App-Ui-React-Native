@@ -61,7 +61,3 @@ module.exports = function (api) {
 
 <img src="homescreen.jpg" style="width:350px;" alt=" Home" />
 
-#### Food Details Screen
-
-<img src="detailsscreen.jpg" style="width:350px;" alt="Details" />
-
