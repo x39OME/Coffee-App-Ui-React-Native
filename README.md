@@ -21,6 +21,8 @@
 - npm i react-native-heroicons
 - npm i react-native-heroicons react-native-svg
 - npm i react-native-animatable
+- ** npx expo install --fix **
+- ** npx expo install **
 ```
 // tailwind.config.js
 module.exports = {
