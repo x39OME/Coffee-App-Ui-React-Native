@@ -56,6 +56,26 @@ module.exports = function (api) {
 - npx expo
 - -w or Open Expo App On your Phone
 
+### There was a connection problem
+### How To fix It
+Windows
+
+To open a port in the Windows firewall for TCP access On the Start menu, click Run, type WF.msc, and then click OK.
+
+In the Windows Firewall with Advanced Security, in the left pane, right-click Inbound Rules, and then click New Rule in the action pane.
+
+In the Rule Type dialog box, select Port, and then click Next.
+
+In the Protocol and Ports dialog box, select TCP. Select Specific local ports, and then type the port number of the instance of the React port, such as 19000 for the default instance. Click Next.
+
+In the Action dialog box, select Allow the connection, and then click Next.
+
+In the Profile dialog box, select any profiles that describe the computer connection environment when you want to connect to the Database Engine, and then click Next.
+
+In the Name dialog box, type a name and description for this rule, and then click Finish.
+
+Similarly you can open port (8081) - 19001 too.
+
 
 ## Preview Final Project
 
