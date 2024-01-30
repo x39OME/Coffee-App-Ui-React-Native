@@ -56,8 +56,9 @@ module.exports = function (api) {
 - npx expo
 - -w or Open Expo App On your Phone
 
-### There was a connection problem
+## React Native Expo (Network Response Time Out Error)
 ### How To fix It
+```
 Windows
 
 To open a port in the Windows firewall for TCP access On the Start menu, click Run, type WF.msc, and then click OK.
@@ -75,7 +76,7 @@ In the Profile dialog box, select any profiles that describe the computer connec
 In the Name dialog box, type a name and description for this rule, and then click Finish.
 
 Similarly you can open port (8081) - 19001 too.
-
+```
 
 ## Preview Final Project
 
