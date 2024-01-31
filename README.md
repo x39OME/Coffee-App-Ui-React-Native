@@ -21,6 +21,7 @@
 - npm i react-native-heroicons
 - npm i react-native-heroicons react-native-svg
 - npm i react-native-snap-carousel
+- npm i --save react-native-snap-carousel@4.0.0-beta.6
 - ** npx expo install --fix **
 - ** npx expo install **
 ```
