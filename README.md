@@ -4,7 +4,7 @@
 ### 1- [React Native Expo](https://reactnative.dev/)
 ### 2- [NativeWind](https://www.nativewind.dev/)
 ### 3- [React Navigation](https://reactnavigation.org/)
-### 4- [npm react-native-linear-gradient](https://www.npmjs.com/package/react-native-linear-gradient)
+### 4- [Tabs Navigation](https://reactnavigation.org/docs/tab-based-navigation/)
 ### 5- [npm react-native-heroicons](https://www.npmjs.com/package/react-native-heroicons)
 ### 6- [react-native-animatable](https://www.npmjs.com/package/react-native-animatable)
 
@@ -17,11 +17,11 @@
 - npx expo install react-native-screens react-native-safe-area-context
 - npm install @react-navigation/native-stack
 - npm i react-native-responsive-screen
-- npm i expo-linear-gradient
-- npm i react-native-heroicons
-- npm i react-native-heroicons react-native-svg
+- npm i react-native-heroicons- npm i react-native-heroicons react-native-svg
 - npm i react-native-snap-carousel
 - npm i --save react-native-snap-carousel@4.0.0-beta.6
+- npm install @react-navigation/bottom-tabs
+- npm i react-native-feather
 - ** npx expo install --fix **
 - ** npx expo install **
 ```
