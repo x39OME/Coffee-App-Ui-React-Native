@@ -83,5 +83,9 @@ Similarly you can open port (8081) - 19001 too.
 
 #### Home Screen
 
-<img src="homescreen.jpg" style="width:350px;" alt=" Home" />
+<img src="./preview/homescreen.jpg" style="width:350px;" alt=" Home" />
+
+#### Product Screen
+
+<img src="./preview/productscreen.jpg" style="width:350px;" alt=" Home" />
 
