@@ -1,4 +1,15 @@
-# Coffee-App-Ui
+# Coffee App Ui React Native
+
+## Preview Final Project
+
+#### Home Screen
+
+<img src="./preview/homescreen.jpg" style="width:350px;" alt=" Home" />
+
+#### Product Screen
+
+<img src="./preview/productscreen.jpg" style="width:350px;" alt=" Home" />
+
 
 ## What did we use in the project?
 ### 1- [React Native Expo](https://reactnative.dev/)
@@ -78,14 +89,3 @@ In the Name dialog box, type a name and description for this rule, and then clic
 
 Similarly you can open port (8081) - 19001 too.
 ```
-
-## Preview Final Project
-
-#### Home Screen
-
-<img src="./preview/homescreen.jpg" style="width:350px;" alt=" Home" />
-
-#### Product Screen
-
-<img src="./preview/productscreen.jpg" style="width:350px;" alt=" Home" />
-
