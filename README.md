@@ -17,7 +17,6 @@
 ### 3- [React Navigation](https://reactnavigation.org/)
 ### 4- [Tabs Navigation](https://reactnavigation.org/docs/tab-based-navigation/)
 ### 5- [npm react-native-heroicons](https://www.npmjs.com/package/react-native-heroicons)
-### 6- [react-native-animatable](https://www.npmjs.com/package/react-native-animatable)
 
 ## Steps
 - npx create-expo-app Coffee-App-Ui
