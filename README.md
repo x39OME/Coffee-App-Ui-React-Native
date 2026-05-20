@@ -2,13 +2,12 @@
 
 ## Preview Final Project
 
-#### Home Screen
-
+<img src="./preview/coffee-app" alt=" app" />
 <img src="./preview/homescreen.jpg" style="width:350px;" alt=" Home" />
 
-#### Product Screen
+- Home Screen
+- Product Screen
 
-<img src="./preview/productscreen.jpg" style="width:350px;" alt=" Home" />
 
 
 ## What did we use in the project?
