@@ -2,11 +2,11 @@
 
 ## Preview Final Project
 
-<img src="./preview/coffee-app.jpg" alt=" app" />
-<img src="./preview/homescreen.jpg" style="width:350px;" alt=" Home" />
-
 - Home Screen
 - Product Screen
+  
+<img src="./preview/coffee-app.jpg" alt=" app" />
+<img src="./preview/homescreen.jpg" style="width:350px;" alt=" Home" />
 
 
 
